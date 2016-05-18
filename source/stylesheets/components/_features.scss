@@ -1,14 +1,29 @@
-.features > h2 {
-  font-size: 20px;
-  margin-bottom: 10px;
+.features {
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 15px;
+  }
+  img {
+    height:100px;
+    width: 100px;
+  }
 }
-.features > p {
-  font-size: 15px;
-}
-.features > img {
-  height: 100px;
-  width: 100px;
-}
+
+
+// .features > h2 {
+//   font-size: 20px;
+//   margin-bottom: 10px;
+// }
+// .features > p {
+//   font-size: 15px;
+// }
+// .features > img {
+//   height: 100px;
+//   width: 100px;
+// }
 .padded {
   padding: 100px 0;
 }
