@@ -1,0 +1,24 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, FR
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: london.jpg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+anne:
+  owner_name: Anne Collet
+  picture: brussels.jpg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Beautifull house
+  city: Brussels, BE
+  wifi: true

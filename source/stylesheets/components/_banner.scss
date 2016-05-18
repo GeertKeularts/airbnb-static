@@ -19,12 +19,15 @@
     color: $gray-lighter;
     margin-bottom: 20px;
   }
+  &-content > p {
+    font-size: 25px;
+    color: $gray-lighter;
+  }
+  &-show {
+    height: 200px;
+  }
 }
 
 #banner-button {
   margin:25px 0;
-}
-.banner-content > p {
-  font-size: 25px;
-  color: $gray-lighter;
 }
